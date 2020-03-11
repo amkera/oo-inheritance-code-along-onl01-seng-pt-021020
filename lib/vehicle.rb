@@ -15,5 +15,6 @@ class Vehicle
   def fill_up_tank
     "filling up!"
   end
+  #We also have #go and #fill_up_tank instance methods that describe some common vehicle behavior.
  
 end

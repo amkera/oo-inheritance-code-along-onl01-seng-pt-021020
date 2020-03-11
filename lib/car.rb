@@ -7,4 +7,7 @@ class Car < Vehicle
 
 #We didn't write anything in our Car class yet but instances of Car class inherit all of the Vehicle methods and therefore have access to them. 
 
+  def go
+    "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
+  end
 end 

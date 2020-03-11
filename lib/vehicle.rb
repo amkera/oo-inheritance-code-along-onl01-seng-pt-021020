@@ -5,6 +5,7 @@ class Vehicle
   def initialize(wheel_size, wheel_number)
     @wheel_size = wheel_size
     @wheel_number = wheel_number
+    #All Instances of Vehicle initialize with a wheel size and number.
   end
  
   def go

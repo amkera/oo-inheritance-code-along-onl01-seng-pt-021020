@@ -5,5 +5,6 @@ class Car < Vehicle
   
 #We use the < to inherit the Car class from Vehicle. Notice that there are no methods defined in the Car class.
 
+#We didn't write anything in our Car class yet but instances of Car class inherit all of the Vehicle methods and therefore have access to them. 
 
 end 
